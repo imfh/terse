@@ -8,3 +8,5 @@ Discover who is creating tweets around you as they are displayed via Goolge Maps
 Creepy? You betcha. This illustrates how easy it is to utilize geolocation, the notion of online privacy, and understanding the option to opt-out of such features.
 
 Use's twitter-api-php to properly authenticate with Twitter: https://github.com/J7mbo/twitter-api-php
+
+![Terse Sceen Shot](http://wthr.im/terse/terse-screen-shot.png)
