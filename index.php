@@ -1,5 +1,5 @@
 <?php
-require_once('TwitterAPIExchange.php');
+require_once('TwitterAPIExchange.php'); /** https://github.com/J7mbo/twitter-api-php **/
 
 /** Set access tokens here - see: https://dev.twitter.com/apps/ **/
 $settings = array(
