@@ -1,7 +1,7 @@
 terse
 =====
 
-A Google Map and Twitter mashup exposing the conversations of those around you.
+A Google Map and Twitter mashup exposing the conversations of those around you. Example may be found at - http://wthr.im/terse/
 
 Discover who is creating tweets around you as they are displayed via Goolge Maps. Shows the latest tweet through Google/Twitter API's.
 
