@@ -29,7 +29,7 @@ $string = json_decode($twitter->setGetfield($getfield)
 
 /** Print out results from JSON feed
 echo "<pre>";
-print_r($tweetLocation);
+print_r($string);
 echo "</pre>";
 **/
 
