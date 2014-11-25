@@ -9,6 +9,6 @@ Creepy? You betcha. This illustrates how easy it is to utilize geolocation, the 
 
 Use's twitter-api-php to properly authenticate with Twitter: https://github.com/J7mbo/twitter-api-php
 
-(Note: occassionaly shows a blank screen. This is due to user turning geolocation off.)
+(Note: occassionaly shows a blank screen. This is due to Google Maps script loading late.)
 
 ![Terse Sceen Shot](http://wthr.im/terse/terse-screen-shot.png)
